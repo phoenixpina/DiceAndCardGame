@@ -11,9 +11,9 @@ and I would love to make more complex games.
 # Development Environment
 
 I used the developer studio Visual Studio to write this program. It is in the C++ language.
-The libraries I used include <iostream>, which was necessary for outputting messages to the console, <string>, which is necessary
+The libraries I used include iostream , which was necessary for outputting messages to the console, string , which is necessary
 for the computer to handle text data, and a variety of libraries for specific uses, which I mention in comments in each of the 
-applicable files. These include <ctime> , <array> , <cstdlib> , <thread> , and <conio.h> .
+applicable files. These include ctime , array , cstdlib , thread , and conio.h .
 
 # Useful Websites
 
